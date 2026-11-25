@@ -1,6 +1,6 @@
-# HighPriest decompilation
+# HighPriest
 
-C++ source for the Ragnarok Online HighPriest client (kRO, built 2008-11-05), reconstructed from the original executable and its program database. Compiled with the compilers of the time, it links to an executable that equals the original `HighPriest.exe` byte for byte:
+C++ source for the HighPriest client (kRO, built 2008-11-05), reconstructed from the original executable and its program database. Compiled with the compilers of the time, it links to an executable that equals the original `HighPriest.exe` byte for byte:
 
 ```
 SHA-256  9abc36c88376387d85c878c0c879d9af8ef66eb1f5152638085dc6995e3f4742
